@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @priyaranjan-mantri # Application Developer at Lucidplus
+# Welcome
+
+- 👋 Hi, I’m __@priyaranjan-mantri__ 
+- 😇 I'm currently working as **Application Developer at Lucidplus**
 - 👀 I’m interested in Coding and Playing badminton 
 - 🌱 I’m currently learning and working on flutter
 - 💞️ I’m looking to collaborate on development
